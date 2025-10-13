@@ -19,62 +19,62 @@ There is a **maximun of 3 levels of sections**.
 
 ```json
 {
-  "<Main Section Name>": {
-    "sections": {
-      "<Secondary Section Name>": {
-        "sections": {},
-        "lines": [
-          {
-            "raw_text": "\u001b[0m\u001b[1;33m[+] \u001b[1;32mnmap\u001b[1;34m is available for network discover & port scanning, you should use it yourself",
-            "clean_text": "[+]  is available for network discover & port scanning, you should use it yourself",
-            "colors": {
-                "GREEN": [
-                    "nmap"
-                ],
-                "YELLOW": [
-                    "[+]"
-                ]
-            }
-          }
-        ],
-        "infos": [
-          "https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/index.html#kernel-exploits"
-        ]
-      },
-      "infos": []
+ "<Main Section Name>": {
+ "sections": {
+ "<Secondary Section Name>": {
+ "sections": {},
+ "lines": [
+ {
+ "raw_text": "\u001b[0m\u001b[1;33m[+] \u001b[1;32mnmap\u001b[1;34m is available for network discover & port scanning, you should use it yourself",
+ "clean_text": "[+] is available for network discover & port scanning, you should use it yourself",
+ "colors": {
+ "GREEN": [
+ "nmap"
+ ],
+ "YELLOW": [
+ "[+]"
+ ]
+ }
+ }
+ ],
+ "infos": [
+ "https/book.hacktricks.wiki/en/linux-hardening/privilege-escalation/index.html#kernel-exploits"
+ ]
+ },
+ "infos": []
 ```
 
 ```json
 {
-  "System Information": {
-    "sections": {
-      "Operative system": {
-        "sections": {},
-        "lines": [
-          {
-            "raw_text": "\u001b[0m\u001b[1;33m[+] \u001b[1;32mnmap\u001b[1;34m is available for network discover & port scanning, you should use it yourself",
-            "clean_text": "[+]  is available for network discover & port scanning, you should use it yourself",
-            "colors": {
-                "GREEN": [
-                    "nmap"
-                ],
-                "YELLOW": [
-                    "[+]"
-                ]
-            }
-          }
-        ],
-        "infos": [
-          "https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/index.html#kernel-exploits"
-        ]
-      },
-      "infos": []
+ "System Information": {
+ "sections": {
+ "Operative system": {
+ "sections": {},
+ "lines": [
+ {
+ "raw_text": "\u001b[0m\u001b[1;33m[+] \u001b[1;32mnmap\u001b[1;34m is available for network discover & port scanning, you should use it yourself",
+ "clean_text": "[+] is available for network discover & port scanning, you should use it yourself",
+ "colors": {
+ "GREEN": [
+ "nmap"
+ ],
+ "YELLOW": [
+ "[+]"
+ ]
+ }
+ }
+ ],
+ "infos": [
+ "https/book.hacktricks.wiki/en/linux-hardening/privilege-escalation/index.html#kernel-exploits"
+ ]
+ },
+ "infos": []
 ```
 
 
 There can also be a `<Third level Section Name>`
 
-If you need to transform several outputs check out https://github.com/mnemonic-re/parsePEASS
+If you need to transform several outputs check out https/github.com/mnemonic-re/parsePEASS
 
 # TODO:
 

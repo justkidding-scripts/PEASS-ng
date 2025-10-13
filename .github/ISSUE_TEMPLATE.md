@@ -1,13 +1,13 @@
-If you are going to suggest something, please remove the following template. 
-If your issue is related with WinPEAS.ps1 please mention https://github.com/RandolphConley
+If you are going to suggest something, please remove the following template.
+If your issue is related with WinPEAS.ps1 please mention https/github.com/RandolphConley
 
 #### Issue description
 
 
 #### Steps to reproduce the issue
 
-1.  
-2. 
+1.
+2.
 3.
 
 #### Which parameters did you use for executing the script and how did you execute it?
